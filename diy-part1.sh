@@ -20,3 +20,4 @@ sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.
 sed -i '$a src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
 sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
 sed -i '$a src-git OAF https://github.com/destan19/OpenAppFilter' feeds.conf.default
+sed -i '$a src-git argon https://github.com/jerrykuku/luci-theme-argon' feeds.conf.default
